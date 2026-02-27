@@ -1,1 +1,9 @@
-gosuslugi.is-a.dev
+{
+  "owner": {
+    "username": "valeradolmatov",
+    "email": "gosuslugivhodanketru@gmail.com"
+  },
+  "record": {
+    "CNAME": "valeradolmatov.github.io"
+  }
+}
